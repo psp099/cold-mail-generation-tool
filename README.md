@@ -25,12 +25,3 @@ An AI-powered web application that automatically generates personalized, profess
 | **Vector Store** | ChromaDB (for prompt memory & personalization) |
 | **Embeddings** | SentenceTransformers / OpenAI Embeddings |
 | **Environment** | Conda / Virtualenv |
-
----
-
-## ⚙️ Installation
-
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/<your-username>/cold-mail-generator.git
-cd cold-mail-generator
